@@ -9,7 +9,7 @@ Learning and solving problems it's my passion. I'm always open to new challanges
 
 ## Skills
 -  👨‍💻  TypeScript, JavaScript, Java
--  ⚙️  Angular 2+, React
+-  ⚙️  Angular 2+, React, NodeJS
 -  👁️  SASS, CSS
 -  💽  MySQL, SQL, Mongo
 
