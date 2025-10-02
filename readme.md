@@ -9,8 +9,8 @@ Learning and solving problems it's my passion. I'm always open to new challanges
 
 ## Skills
 -  👨‍💻  TypeScript, JavaScript, Java
--  ⚙️  Angular 2+, React, NodeJS
--  👁️  SASS, CSS
+-  ⚙️  Angular 2+, React, ThreeJS, React Three Fiber, NodeJS
+-  👁️  SASS, CSS, Tailwind
 -  💽  MySQL, SQL, Mongo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alynevieira&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
